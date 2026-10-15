@@ -34,3 +34,4 @@ npm run typecheck   # TypeScript tip kontrolü
 - PayTR entegrasyonu bu fazda kapsam dışıdır (bkz. `docs/04-paytr-entegrasyon-arastirmasi.md` başındaki not); ileride gerçek ödeme eklenirse referans olarak kullanılabilir.
 - Üründeki bazı iddialar (BPA, hijyen, dayanıklılık vb.) üretici belgesiyle doğrulanana kadar sitede kesin ifade olarak kullanılmamıştır; bkz. `docs/01-pdf-analizi.md`.
 # limonmatik-website
+# limonmatik-website
